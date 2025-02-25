@@ -5,7 +5,7 @@ header, footer {
     justify-content: space-between;
     align-items: center;
     min-height: 12.5dvh;
-    backdrop-filter: blur(25px);
+    background:url(1.jpg);
 }
 header {
     padding: 0 20px;
